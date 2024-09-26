@@ -1,0 +1,4 @@
+﻿  Q7.cpp
+C:\강예지5호점\코딩\C언어\DS_79p\Q7.cpp(16,14): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\강예지5호점\코딩\C언어\DS_79p\Q7.cpp(33,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DS_79p.vcxproj -> C:\강예지5호점\코딩\C언어\DS_79p\Debug\DS_79p.exe

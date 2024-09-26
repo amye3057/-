@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\강예지5호점\코딩\C언어\Project23\Project23\FileName.cpp(46,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\Project23\Project23\FileName.cpp(54,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project23.vcxproj -> C:\강예지5호점\코딩\C언어\Project23\x64\Debug\Project23.exe

@@ -1,0 +1,74 @@
+﻿  hw4_2019124208.c
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): message : 이 인수는 변환 지정자에서 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(61,25): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(65,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(65,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(65,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(65,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(68,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(68,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(68,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(68,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(71,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(71,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(71,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(71,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(77,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(77,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(77,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(77,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(79,29): warning C4013: 'hash1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(81,30): warning C4013: 'hash2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(89,36): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(89,32): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(89,41): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(89,38): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(95,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(95,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(95,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(95,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(98,40): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [35]'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(98,36): warning C4024: 'search': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(106,40): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(106,36): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(113,29): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(113,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(113,29): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(113,29): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(116,25): error C2374: 'i': 재정의. 여러 번 초기화했습니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(98,25): message : 'i' 선언을 참조하십시오.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(116,40): warning C4047: '함수': 'char'의 간접 참조 수준이 'char [35]'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(116,36): warning C4024: 'search': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(86,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(87,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(88,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(89,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(90,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(103,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(104,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(105,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(106,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(107,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(141,13): warning C4013: 'h1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(142,28): warning C4047: '!=': 'char [35]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(143,14): warning C4013: 'h2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(145,31): warning C4047: '!=': 'char [35]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(148,28): warning C4047: '!=': 'char [35]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(203,24): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(203,20): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(169,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(174,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(177,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(180,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(183,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(186,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(189,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(200,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(201,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(202,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(203,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\hw4_2019124208\hw4_2019124208\hw4_2019124208.c(204,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

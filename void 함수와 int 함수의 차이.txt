@@ -1,0 +1,9 @@
+<void 함수와 int 함수의 차이>
+
+void add(void);  입력값이 없고 반환값이 없을때
+
+int add(int x, int y); 입력값이 int형으로 2개고 반환값이 int형으로 있을때
+
+int add(void); 입력값이 없고 반환값이 int형으로 있을때
+
+void add(int x, int y); 입력값이 int형으로 2개고 반환값이 없을때.

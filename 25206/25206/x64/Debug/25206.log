@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\강예지5호점\코딩\C언어\25206\25206\FileName.cpp(12,11): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double *'입니다.
+C:\강예지5호점\코딩\C언어\25206\25206\FileName.cpp(12,11): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\강예지5호점\코딩\C언어\25206\25206\FileName.cpp(15,11): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\강예지5호점\코딩\C언어\25206\25206\FileName.cpp(44,8): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  25206.vcxproj -> C:\강예지5호점\코딩\C언어\25206\x64\Debug\25206.exe

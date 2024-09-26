@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\강예지5호점\코딩\C언어\Project6\Project6\FileName.cpp(66,11): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  Project6.vcxproj -> C:\강예지5호점\코딩\C언어\Project6\x64\Debug\Project6.exe

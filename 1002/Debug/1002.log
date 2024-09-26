@@ -1,0 +1,4 @@
+﻿  1002.cpp
+C:\강예지5호점\코딩\C언어\1002\1002.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\1002\1002.cpp(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1002.vcxproj -> C:\강예지5호점\코딩\C언어\1002\Debug\1002.exe

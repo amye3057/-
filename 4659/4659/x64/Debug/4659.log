@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+FileName.obj : error LNK2019: "int __cdecl vowel(char * const,int,int)" (?vowel@@YAHQEADHH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+    정의되었으며 잠재적으로 일치할 수 있는 기호에 대한 힌트:
+      "int __cdecl vowel(char (* const)[22],int,int)" (?vowel@@YAHQEAY0BG@DHH@Z)
+C:\강예지5호점\코딩\C언어\4659\x64\Debug\4659.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

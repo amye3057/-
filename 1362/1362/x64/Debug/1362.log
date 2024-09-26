@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\강예지5호점\코딩\C언어\1362\1362\FileName.cpp(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\강예지5호점\코딩\C언어\1362\1362\FileName.cpp(17,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1362.vcxproj -> C:\강예지5호점\코딩\C언어\1362\x64\Debug\1362.exe
