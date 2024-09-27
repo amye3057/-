@@ -5,7 +5,9 @@
 int main() {
 	char arr[1000000] = {};
 	scanf("%s", arr);
-	for (int i = 0; i < strlen(arr); i++) {
+
+	int length = strlen(arr);
+	for (int i = 0; i < length; i++) {
 		printf("%c", arr[i] - 32);
 	}
 	return 0;
